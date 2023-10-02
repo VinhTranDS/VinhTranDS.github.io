@@ -7,8 +7,4 @@ tags: [Tableau, Data Viz]
 
 This Tableau Dashboard tracks global Earthquake activity across a 30-day period.
 
-It combines different worksheets of 10 largest earthquakes, location %, and a combination of frequency, avg magnitude, and maximum magnitude.
-
-This dashboard enables users to filter views based on Analysis Date. Give it a try!
-
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/EarthQuakeDashboard_16863248536920/DSIEarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
